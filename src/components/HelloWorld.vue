@@ -9,7 +9,7 @@ defineProps<{
 
 <template>
   <div>
-    <TodoList/>
+    <h1>{{ msg }}</h1>
   </div>
 </template>
 
